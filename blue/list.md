@@ -1,0 +1,6 @@
+Left (+ Hole) 4x1 ok
+Map name 2x1
+yyna 2x1
+Left + Drift here 2x1
+Right zigzag 2x1
+Left zigzag 2x1
