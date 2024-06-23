@@ -4,3 +4,4 @@ yyna 2x1
 Left + Drift here 2x1
 Right zigzag 2x1
 Left zigzag 2x1
+Left 1x1
